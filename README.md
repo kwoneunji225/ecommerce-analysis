@@ -7,4 +7,5 @@
 **Objective** - Having navigated the challenges of the pandemic, the company now requires a new strategy to thrive in the post-pandemic era. I collaborated with the Head of Operations to extract actionable insights and develop data-driven strategies for the upcoming year.
 
 ## DATASET STRUCTURE & CLEANING
-The dataset comprises over 108,000 orders from 2019–2022, total $28.1M in sales.
+- The dataset comprises over 108,000 orders from 2019–2022, total $28.1M in sales.
+- The data cleaning note is [Link Text] here, detailing the steps taken to clean the data
