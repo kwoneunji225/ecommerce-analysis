@@ -16,3 +16,9 @@
 ## DATA-DRIVEN PERSPECTIVES
 ### 1. Overall Sales Trend
 ![1 Overall Sales Trend](https://github.com/user-attachments/assets/38210b74-9198-4f00-863d-41a2e72ff7e0)
+![2  Yearly Trends](https://github.com/user-attachments/assets/2d8ee09c-6c7e-4310-9b35-5c1a29aad957)
+
+### 2. Seasonality
+![3  Seasonality](https://github.com/user-attachments/assets/59c6871b-07c8-4d38-8ad3-9a72f0131da4)
+
+
