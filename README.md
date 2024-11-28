@@ -2,9 +2,9 @@
 
 
 ## PROJECT BACKGROUND
-**Company** -  ConnecTech, a global e-commerce company founded in 2018, sells popular electronic devices from brands like Samsung, Apple, and Bose. 
+**Company** - ConnecTech, a global e-commerce company founded in 2018, sells electronic devices from Samsung, Apple, etc. 
 
-**Objective** - Having navigated the challenges of the pandemic, the company now requires a new strategy to thrive in the post-pandemic era. I collaborated with the Head of Operations to extract actionable insights and develop data-driven strategies for the upcoming year.
+**Objective** - Having navigated challenges of the pandemic, the company now requires a new strategy to thrive in post-pandemic era. I collaborated with Head of Operations to extract actionable insights and develop data-driven strategies for upcoming year.
 
 ## DATASET STRUCTURE & CLEANING
 - The dataset comprises over 108,000 orders from 2019–2022, total $28.1M in sales.
@@ -38,11 +38,14 @@ The overall trend shows fast growth in 2020, followed by a slow return to normal
 
 I would like to divide each month in 3 phase, **(1) September to December as Peak Season of the year (2) January to March as Post Holiday Slump (3) March to September as Mid-Year Steadiness.**
 
-**September to December (Peak Season of the year):**
+**(1) September to December (Peak Season of the year):**
 - Except for October, it is the peak season with promotions like Black Friday and Christmas, driving the most revenue.
 - Notably, order counts spike in September, November, and December, boosting total sales. However, AOVs don’t follow the same trend, suggesting customers are buying cheaper or discounted items.
-- Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022), indicating customers may be purchasing higher-priced items or spending more per order during this month.
+- **Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates customers are need-based, purchasing higher-priced items or spending more per order during this month.**
 
-**▶SUGGESTIONS**
-- Customers in October are highly likely need-based, buying products even without discount.
-- 
+**(2) January to March (Post Holiday Slump):**
+- January to March sees a drop in sales following the holiday season, as consumer spending slows down.
+- Lower order counts and AOVs during this period suggest reduced demand and less promotional activity.
+
+**(3) March to September (Mid-Year Steadiness):**
+- Sales show steady growth, except for 2022, with some fluctuations in order counts and AOVs. These trends suggest normal purchasing behavior, with occasional spikes and dips as consumers adjust to post-holiday routines, seasonal needs, or specific promotions.
