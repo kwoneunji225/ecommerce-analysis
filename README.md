@@ -27,7 +27,9 @@ Let's look at the big picture and understand the cycle of sales trend, then dive
 
 ### 2) Yearly Trends  
 ![2  Yearly Trends](https://github.com/user-attachments/assets/2d8ee09c-6c7e-4310-9b35-5c1a29aad957)
-The overall trend shows fast growth in 2020, followed by a slow return to normal and a sharp drop in 2022. An increase in order count in 2021, despite declines in total sales and Average Order Value (AOV), suggests a change in customer purchasing behavior as below. 
+The overall trend shows fast growth in 2020, followed by a slow return to normal and a sharp drop in 2022. 
+
+There's an increase in ORDER COUNT in 2021, despite declines in total sales and Average Order Value (AOV), suggests a change in customer behavior as below. 
 
 - **Change in Product Mix**: The increase in order count could indicate higher sales of lower-priced items, which would drive down AOV while increasing the number of transactions.
 - **Retention of Existing Customers**: While the total sales dropped, the higher order count suggests the company retained or attracted a steady base of customers who engaged with smaller purchases.
