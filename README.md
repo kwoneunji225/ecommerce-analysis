@@ -32,7 +32,7 @@ The overall trend shows fast growth in 2020, followed by a slow return to normal
 
 - **Change in Product Mix**: The increase in order count could indicate higher sales of lower-priced items, which would drive down AOV while increasing the number of transactions.
 - **Retention of Existing Customers**: While the total sales dropped, the higher order count suggests the company retained or attracted a steady base of customers who engaged with smaller purchases.
-- **Market Conditions**: Post-pandemic, consumer spending are likely normalized. Customers may have spent less on each purchase, leading to a lower average order value (AOV), even though they placed more orders overall.
+- **Market Conditions**: Post-pandemic, consumer spending are likely normalized. Customers may have spent less on each purchase, leading to a lower AOV, even though they placed more orders overall.
 
 ### 3) Seasonality
 ![3  Seasonality](https://github.com/user-attachments/assets/59c6871b-07c8-4d38-8ad3-9a72f0131da4)
