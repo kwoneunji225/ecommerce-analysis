@@ -64,13 +64,13 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 - **Declining Contribution from Smaller Products:** Items like the Samsung Charging Cable Pack and Apple iPhone collectively accounted for only 4% of total sales, with individual shares consistently below 3% each year.
 
 ### 2) Royalty Program Performance
-(1) Overall Trend: Royalty vs Non-Royalty
+**(1) Overall Trend: Royalty vs Non-Royalty**
 ![6  Royalty Program Performance](https://github.com/user-attachments/assets/6ea15f7f-4525-4e87-afff-b1fe385c41f9)
 - Royalty program, surpassed non-royalty in sales by 2021 ($4.87M vs. $4.26M).
 - The AOV for royalty program steadily increased, surpassing non-royalty in 2022 ($245 vs. $214), indicating a growing demand for higher-priced items.
 - Order counts for royalty program surged dramatically, overtaking non-royalty by 2021, meaning a clear shift in customer preferences toward premium, royalty-branded offerings.
 
-(2) Royalty Program by Products
+**(2) Product Performance by Royalty Program**
 ![6-1  royalty program bt products](https://github.com/user-attachments/assets/b39036bf-50e2-44b8-a053-161502c927c0)
 - **Apple Airpods as a Key Product for Royalty Members:** Apple Airpods Headphones are top-selling product for royalty members, highlighting their central role in driving loyalty program engagement. The AOV for royalty members purchasing Airpods ($163) is slightly higher than non-royalty members ($157), indicating a preference for premium products among loyal customers.
 
