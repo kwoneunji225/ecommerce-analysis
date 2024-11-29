@@ -55,7 +55,8 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 ## 2. MULTI-DIMENSIONAL ANALYSIS
 ### 1) Product Sales Performance
 
-![5  Product Analysis jpg](https://github.com/user-attachments/assets/4e4f6573-a6db-481e-b169-fd5ee560b01d)
+![5  Product Analysis jpg](https://github.com/user-attachments/assets/ef5e50c3-bdb1-4fa9-87c7-8917b83570a4)
+
 - **Core Product Leadership:** The 27in 4K gaming monitor steadily increased its sales share, from 37% in 2019 to 39% in 2022, contributing over $9.8M (35%) to the total sales across all years.
   
 - **Mid-Tier Products with Seasonal Influence:** MacBook Air and ThinkPad Laptop combined contributed $8.5M (30% of total sales), with MacBook Air peaking at 29% in 2020. Seasonal demand, such as remote work, likely influenced these trends.
@@ -69,7 +70,11 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 - The AOV for royalty program steadily increased, surpassing non-royalty in 2022 ($245 vs. $214), indicating a growing demand for higher-priced items.
 - Order counts for royalty program surged dramatically, overtaking non-royalty by 2021, meaning a clear shift in customer preferences toward premium, royalty-branded offerings.
 
-![6-1  royalty program bt products](https://github.com/user-attachments/assets/5daee6a4-f768-4213-a941-99fd4cd22208)
+(2) Royalty Program by Products
+![6-1  royalty program bt products](https://github.com/user-attachments/assets/b39036bf-50e2-44b8-a053-161502c927c0)
+- **Apple Airpods as a Key Product for Royalty Members:** Apple Airpods Headphones are top-selling product for royalty members, highlighting their central role in driving loyalty program engagement. The AOV for royalty members purchasing Airpods ($163) is slightly higher than non-royalty members ($157), indicating a preference for premium products among loyal customers.
+
+- **Royalty Program's Impact on Sales & Order Volume:** The royalty program significantly boosts order volume, with 26,509 orders for Airpods compared to 21,886 for non-royalty members. Additionally, products like MacBook Air and ThinkPad show higher AOV for royalty members, suggesting that the program enhances customer willingness to spend on higher-value items.
 
 
 
