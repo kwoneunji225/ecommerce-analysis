@@ -38,12 +38,12 @@ There's an increase in ORDER COUNT in 2021, despite declines in total sales and 
 ### 3) Seasonality
 ![3  Seasonality](https://github.com/user-attachments/assets/59c6871b-07c8-4d38-8ad3-9a72f0131da4)
 
-I would like to divide each month in 3 phase, **(1) September to December as Peak Season of the year (2) January to March as Post Holiday Slump (3) March to September as Mid-Year Steadiness.**
+I would like to divide each month in 3 phases, **(1) September to December as Peak Season of the year (2) January to March as Post Holiday Slump (3) March to September as Mid-Year Steadiness.**
 
 **(1) September to December (Peak Season of the Year):**
 - Except for October, it is the peak season with promotions like Black Friday and Christmas, driving the most revenue.
 - Notably, order counts spike in September, November, and December, boosting total sales. However, AOVs don’t follow the same trend, suggesting customers are buying cheaper or discounted items.
-- **Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates customers are need-based, purchasing higher-priced items or spending more per order during this month.**
+- **Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates that customers are need-based, purchasing higher-priced items or spending more per order during this month.**
 
 **(2) January to March (Post Holiday Slump):**
 - January to March sees a drop in sales following the holiday season, as consumer spending slows down.
@@ -62,8 +62,17 @@ I would like to divide each month in 3 phase, **(1) September to December as Pea
 
 - **Declining Contribution from Smaller Products:** Items like the Samsung Charging Cable Pack and Apple iPhone collectively accounted for only 4% of total sales, with individual shares consistently below 3% each year.
 
-![6  Royalty Program Performance](https://github.com/user-attachments/assets/3addb3b2-b14e-4889-8fe0-8bb1c194d315)
-![6-1  royalty program bt products](https://github.com/user-attachments/assets/9d1df021-00b1-4506-b422-d1bd25f35f2a)
+### 2) Royalty Program Performance
+(1) Overall Trend: Royalty vs Non-Royalty
+![6  Royalty Program Performance](https://github.com/user-attachments/assets/6ea15f7f-4525-4e87-afff-b1fe385c41f9)
+- Royalty program, surpassed non-royalty in sales by 2021 ($4.87M vs. $4.26M).
+- The AOV for royalty program steadily increased, surpassing non-royalty in 2022 ($245 vs. $214), indicating a growing demand for higher-priced items.
+- Order counts for royalty program surged dramatically, overtaking non-royalty by 2021, meaning a clear shift in customer preferences toward premium, royalty-branded offerings.
+
+![6-1  royalty program bt products](https://github.com/user-attachments/assets/5daee6a4-f768-4213-a941-99fd4cd22208)
+
+
+
 
 
 
