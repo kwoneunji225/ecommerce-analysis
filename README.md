@@ -62,3 +62,8 @@ I would like to divide each month in 3 phase, **(1) September to December as Pea
 
 - **Declining Contribution from Smaller Products:** Items like the Samsung Charging Cable Pack and Apple iPhone collectively accounted for only 4% of total sales, with individual shares consistently below 3% each year.
 
+![6  Royalty Program Performance](https://github.com/user-attachments/assets/3addb3b2-b14e-4889-8fe0-8bb1c194d315)
+![6-1  royalty program bt products](https://github.com/user-attachments/assets/9d1df021-00b1-4506-b422-d1bd25f35f2a)
+
+
+
