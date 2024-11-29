@@ -57,7 +57,7 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 
 ![5  Product Analysis jpg](https://github.com/user-attachments/assets/ef5e50c3-bdb1-4fa9-87c7-8917b83570a4)
 
-- **Core Product Leadership:** The 27in 4K gaming monitor steadily increased its sales share, from 37% in 2019 to 39% in 2022, contributing over $9.8M (35%) to the total sales across all years.
+- **Key Growth Drivers:** The 27in 4K gaming monitor and Apple AirPods Headphones are the only products with rising sales shares, consistently leading in total contributions and poised as future core products.
   
 - **Mid-Tier Products with Seasonal Influence:** MacBook Air and ThinkPad Laptop combined contributed $8.5M (30% of total sales), with MacBook Air peaking at 29% in 2020. Seasonal demand, such as remote work, likely influenced these trends.
 
