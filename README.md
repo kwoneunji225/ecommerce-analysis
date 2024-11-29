@@ -40,7 +40,7 @@ There's an increase in ORDER COUNT in 2021, despite declines in total sales and 
 
 I would like to divide each month in 3 phase, **(1) September to December as Peak Season of the year (2) January to March as Post Holiday Slump (3) March to September as Mid-Year Steadiness.**
 
-**(1) September to December (Peak Season of the year):**
+**(1) September to December (Peak Season of the Year):**
 - Except for October, it is the peak season with promotions like Black Friday and Christmas, driving the most revenue.
 - Notably, order counts spike in September, November, and December, boosting total sales. However, AOVs don’t follow the same trend, suggesting customers are buying cheaper or discounted items.
 - **Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates customers are need-based, purchasing higher-priced items or spending more per order during this month.**
@@ -51,3 +51,14 @@ I would like to divide each month in 3 phase, **(1) September to December as Pea
 
 **(3) March to September (Mid-Year Steadiness):**
 - Sales show steady growth, except for 2022, with some fluctuations in order counts and AOVs. These trends suggest normal purchasing behavior, with occasional spikes and dips as consumers adjust to post-holiday routines, seasonal needs, or specific promotions.
+
+## 2. MULTI-DIMENSIONAL ANALYSIS
+### 1) Product Sales Performance
+
+![5  Product Analysis jpg](https://github.com/user-attachments/assets/4e4f6573-a6db-481e-b169-fd5ee560b01d)
+- **Core Product Leadership:** The 27in 4K gaming monitor steadily increased its sales share, from 37% in 2019 to 39% in 2022, contributing over $9.8M (35%) to the total sales across all years.
+  
+- **Mid-Tier Products with Seasonal Influence:** The MacBook Air and ThinkPad Laptop combined contributed $8.5M (30% of total sales), with MacBook Air peaking at 29% in 2020. Seasonal demand, such as for remote work, likely influenced these trends.
+
+- **Declining Contribution from Smaller Products:** Items like the Samsung Charging Cable Pack and Apple iPhone collectively accounted for only 4% of total sales, with individual shares consistently below 3% each year.
+
