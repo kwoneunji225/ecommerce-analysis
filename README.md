@@ -43,7 +43,7 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 **(1) September to December (Peak Season of the Year):**
 - Except for October, it is the peak season with promotions like Black Friday and Christmas, driving the most revenue.
 - Notably, order counts spike in September, November, and December, boosting total sales. However, AOVs don’t follow the same trend, suggesting customers are buying cheaper or discounted items.
-- **Most intereestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates that customers are need-based, purchasing higher-priced items or spending more per order during this month.**
+- **Most interestingly, in October, despite a dip in sales, AOVs increase (except in 2022). It indicates that customers are need-based, purchasing higher-priced items or spending more per order during this month.**
 
 **(2) January to March (Post Holiday Slump):**
 - January to March sees a drop in sales following the holiday season, as consumer spending slows down.
