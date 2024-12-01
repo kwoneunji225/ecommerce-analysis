@@ -100,7 +100,7 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 
 
 ### 3. Royalty Program Optimization: Enhancing Member Experience and Value
-Since 2021, the royalty program has shown growth in order volume and AOV, particularly with products like Apple Airpods. **Maintaining it is essential**, as it drives higher-value purchases and strengthens customer loyalty.
+Since 2021, the royalty program has shown growth in order volume and AOV, particularly with products like Apple Airpods. **Maintaining the royalty program is essential**, as it drives higher-value purchases and strengthens customer loyalty.
 
 **1) Drive AOV and Retention with Loyalty Rewards for AirPods Purchases**
 - Offer additional **loyalty rewards for Apple AirPods purchases**, motivating members to use their rewards to upgrade to higher-tier products, to increase AOV and boost customer retention.
