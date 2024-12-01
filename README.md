@@ -93,9 +93,9 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 ### 2. Product-Specific Strategies: Tailor Approach for Key Products
 
 **1) Strengthen Key Revenue Driving Product Variety**
-- The **27 in 4K gaming monitor** and **Apple AirPods Headphones** are with rising sales shares. Focus on **expanding their reach**. Additionally, **explore expanding the product line with items that have similar characteristics**, such as high-performance, premium quality, and strong consumer demand, to capitalize on their growing market appeal.
+- The **27 in 4K gaming monitor** and **Apple AirPods Headphones** are with rising sales shares by time. Focus on **expanding their reach**. Additionally, **explore expanding the product line with items that have similar characteristics**, such as high-performance, premium quality, and strong consumer demand, to capitalize on their growing market appeal.
 
-**2) Boost Sales of Smaller Products Through Cross-Selling and Upselling**
+**2) Boost Sales of Low-Performance Products Through Cross-Selling and Upselling**
 - Promote bundling of low-contributing products, like the Samsung Charging Cable Pack and Apple iPhone, with high-performing items (e.g., Apple AirPods or laptops) to increase visibility and sales volume.
 
 
