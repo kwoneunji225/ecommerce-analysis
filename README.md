@@ -68,7 +68,7 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 ![6  Royalty Program Performance](https://github.com/user-attachments/assets/6ea15f7f-4525-4e87-afff-b1fe385c41f9)
 - Royalty program, surpassed non-royalty in sales by 2021 ($4.87M vs. $4.26M).
 - The AOV for royalty program steadily increased, surpassing non-royalty in 2022 ($245 vs. $214), indicating a growing demand for higher-priced items.
-- Order counts for royalty program surged dramatically, overtaking non-royalty by 2021, meaning a clear shift in customer preferences toward premium, royalty-branded offerings.
+- Order counts for royalty program surged, overtaking non-royalty by 2021, meaning a clear shift in customer preferences toward premium, royalty-branded offerings.
 
 **(2) Product Performance by Royalty Program**
 ![6-1  royalty program bt products](https://github.com/user-attachments/assets/b39036bf-50e2-44b8-a053-161502c927c0)
@@ -76,8 +76,25 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 
 - **Royalty Program's Impact on Sales & Order Volume:** The royalty program significantly boosts order volume, with 26,509 orders for Airpods compared to 21,886 for non-royalty members. Additionally, products like MacBook Air and ThinkPad show higher AOV for royalty members, suggesting that the program enhances customer willingness to spend on higher-value items.
 
+## STRATEGIES PROPOSAL
+### 1. Segmentation by Seasons: Tailor Strategy by Timing
+
+**1) September to December (Peak Season of the Year)**
+- **Maximize Need-Based Purchases**: Since in **October, AOV (except in 2022) tends to increase**, capitalize on customers’ preference for **need-based purchases by introducing non-discount promotions**, such as bundle deals or value-added packages, to boost revenue while protecting margins.
+- **Maximize Holiday Season Performance**: **With lower AOV in November and December**, drive sales through competitive pricing, **low-price appeals, and aggressive promotions** to attract deal-seeking customers and boost volumes.
 
 
+**2) January to March (Post Holiday Slump)**
+- **Boost Engagement in February**: Introduce **time-sensitive campaigns**, such as Valentine’s Day promotions or **limited-time discounts, to counter the typical dip in order counts.** Focus on bundling popular products like Apple AirPods or Samsung accessories to encourage impulse purchases and drive volume during this slower period.
 
+**3) March to September (Mid-Year Steadiness)**
+- **Summer Approach for Sales Decrease in June**: Highlight products like phone cases, chargers, portable speakers, headphones, or cooling stands for laptops—items that **enhance current electronics and are particularly relevant during the warmer months**. This strategy taps into seasonal needs, helping to drive sales during a typically slower period.
 
+### 2. Product-Specific Strategies: Tailor Approach for Key Products
+
+**1) Strengthen Key Revenue Driving Product Variety**
+- The **27 in 4K gaming monitor** and **Apple AirPods Headphones** are with rising sales shares. Focus on **expanding their reach**. Additionally, **explore expanding the product line with items that have similar characteristics**, such as high-performance, premium quality, and strong consumer demand, to capitalize on their growing market appeal.
+
+**2) Boost Sales of Smaller Products Through Cross-Selling and Upselling**
+- Promote bundling of low-contributing products, like the Samsung Charging Cable Pack and Apple iPhone, with high-performing items (e.g., Apple AirPods or laptops) to increase visibility and sales volume.
 
