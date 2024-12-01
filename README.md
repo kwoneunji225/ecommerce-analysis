@@ -9,8 +9,8 @@
 ## DATASET STRUCTURE & CLEANING
 - The dataset comprises over 108,000 orders from 2019–2022, total $28.1M in sales.
 - The data cleaning note is [here](https://github.com/kwoneunji225/ecommerce-analysis/blob/main/Data%20Cleaning%20Note.pdf).
-- Structure of the dataset (ERD)
 - Find out SQL queries [HERE].
+- Structure of the dataset (ERD).
 ![0 ERD](https://github.com/user-attachments/assets/d31adc1a-a0a1-44ea-98fd-846f39d373a1)
 
 
