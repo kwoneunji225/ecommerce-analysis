@@ -98,3 +98,15 @@ I would like to divide each month in 3 phases, **(1) September to December as Pe
 **2) Boost Sales of Smaller Products Through Cross-Selling and Upselling**
 - Promote bundling of low-contributing products, like the Samsung Charging Cable Pack and Apple iPhone, with high-performing items (e.g., Apple AirPods or laptops) to increase visibility and sales volume.
 
+
+### 3. Royalty Program Optimization: Enhancing Member Experience and Value
+Since 2021, the royalty program has shown growth in order volume and AOV, particularly with products like Apple Airpods. **Maintaining it is essential**, as it drives higher-value purchases and strengthens customer loyalty.
+
+**1) Drive AOV and Retention with Loyalty Rewards for AirPods Purchases**
+- Offer additional **loyalty rewards for Apple AirPods purchases**, motivating members to use their rewards to upgrade to higher-tier products, to increase AOV and boost customer retention.
+
+**2) Incentivize Repeat Purchases with Limited-Edition or Upgraded AirPods**
+- **Introduce limited-edition or upgraded versions of Apple AirPods as part of the loyalty program**, encouraging members to make repeat purchases and further increasing engagement and sales.
+
+**3) Expand Premium Offerings**
+- Since the royalty program has seen **higher sales, AOV, and order counts, continue to introduce premium products** that align with customer preferences for higher-priced items.
