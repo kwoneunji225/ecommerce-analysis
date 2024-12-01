@@ -110,3 +110,8 @@ Since 2021, the royalty program has shown growth in order volume and AOV, partic
 
 **3) Expand Premium Offerings**
 - Since the royalty program has seen **higher sales, AOV, and order counts, continue to introduce premium products** that align with customer preferences for higher-priced items.
+
+***
+- Let's get connected on [LinkedIn](https://www.linkedin.com/in/eunjii-kwon/).
+- Find out SQL queries [HERE].
+- Interactive Tablaue Workbook [HERE].
